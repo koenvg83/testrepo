@@ -5,6 +5,10 @@ Here is my preamble paragraph, but I could really place the TOC anywhere! Lorem 
 
 toc::[]
 = KOP 1
+[stem%number,label=mass-energy]
+++++
+E = mc^2
+++++
 ==KOP 2
 NOTE: An admonition paragraph draws the reader's attention to
 auxiliary information.
